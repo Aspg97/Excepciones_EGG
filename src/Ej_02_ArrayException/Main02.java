@@ -1,0 +1,10 @@
+package Ej_02_ArrayException;
+
+public class Main02 {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
